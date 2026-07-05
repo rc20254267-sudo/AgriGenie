@@ -1,0 +1,6 @@
+{
+  "name": "AgriGenie – AI Powered Smart Farming Assistant",
+  "description": "An AI-powered smart farming assistant that helps farmers manage farms, detect plant diseases, predict crop yield, recommend irrigation, and interact with a Gemini-powered AI chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
